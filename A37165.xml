@@ -1,0 +1,1381 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Coronation of Queen Elizabeth, with the restauration of the Protestant religion, or, The downfal of the Pope being a most excellent play, as it was acted both at Bartholomew and Southwark fairs, this present year, 1680, with great applause and approved of and highly commended by all the Protestant nobility, gentry and commonalty of England, who came to be spectators of the same.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 58 KB of XML-encoded text transcribed from 14 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A37165</idno>
+            <idno type="STC">Wing D31</idno>
+            <idno type="STC">ESTC R22544</idno>
+            <idno type="EEBO-CITATION">12233549</idno>
+            <idno type="OCLC">ocm 12233549</idno>
+            <idno type="VID">56658</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A37165)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 56658)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 138:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Coronation of Queen Elizabeth, with the restauration of the Protestant religion, or, The downfal of the Pope being a most excellent play, as it was acted both at Bartholomew and Southwark fairs, this present year, 1680, with great applause and approved of and highly commended by all the Protestant nobility, gentry and commonalty of England, who came to be spectators of the same.</title>
+                  <author>J. D.</author>
+               </titleStmt>
+               <extent>[4], 22, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Ben. Harris ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1680.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"To the Protestant reader" signed: J.D.</note>
+                  <note>Reproduction of original in Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Elizabeth --  I, --  Queen of England, 1533-1603 --  Drama.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:56658:1" rendition="simple:additions"/>
+            <p>The CORONATION OF Queen Elizabeth, WITH The RESTAURATION OF THE Proteſtant Religion: OR, The DOWNFAL OF THE POPE.</p>
+            <p>Being a moſt Excellent PLAY, As it was ACTED, BOTH AT <hi>Bartholomew</hi> and <hi>Southwark</hi> FAIRS, This preſent Year 1680.</p>
+            <p>With great Applauſe, and Approved of, and highly Commended by all the <hi>Proteſtant Nobility, Gentry</hi> and <hi>Commonalty</hi> of <hi>ENGLAND,</hi> who came to be Spectators of the ſame.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Ben. Harris,</hi> at the <hi>Stationers Arms</hi> under the <hi>Piazza</hi> in <hi>Cornhil.</hi> 1680:</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:56658:2"/>
+            <pb facs="tcp:56658:2"/>
+            <head>TO THE Proteſtant Reader.</head>
+            <p>KInd Reader, After the great Applauſe this <hi>Play</hi> has gained upon the Stage, I have thought fit, for the better Satis<g ref="char:EOLhyphen"/>faction of the Curious, to publiſh it to the World, that all may plainly behold my ſincere Intentions herein, which was only to lay open the Cruelties and Villanies of <hi>Rome,</hi> more to the Life, than they have been expoſed ſince the beginning of this late horrid and moſt barbarous Plot; for upon ſecond thoughts I conſidered, that many who only ſaw this <hi>Play,</hi> were not of ſuch profound Capacities, as to let it take a firm Impreſſion upon their Memories; therefore, that all might the better weigh each particular circumſtance, as their leaſure ſerved them, I have preſumed to ſend it abroad into the World, though no doubt amongſt a thouſand Foes, whoſe Malice unqueſtionably will endeavour to aſperſe and fully the candid Reputation it has already gained amongst ſeveral Noble Perſonages of this Nation; whoſe ſound Judgments are undeniable: the reaſon of it, is per<g ref="char:EOLhyphen"/>haps becauſe it plainly ſhews them as in a Mirror, the purity of our Religion, and the groſs Abſurdities and Cruelties of the <hi>Pope</hi> and Church of <hi>Rome,</hi> in their proper Colours, not gilded over with borrowed Ornaments or Fictious, which never were: but howſoever, under the friendly Patronage of all truly Loyal Proteſtants, I have ſent it abroad to tell the World, the Noble Exploits, Heroick Reſolutions and Victories, of that bleſt Queen, who maugred all the Plots and dire Conſpiracies of <hi>Rome,</hi> to the laſt moment of her long and proſperous Reign.</p>
+            <closer>
+               <signed>So I remain a Lover of all that own the Name of Proteſtants, and live up to the Dictates of that Sacred Profeſſion, to ſerve them in all ſincerity <hi>J. D.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="dramatis_personae">
+            <pb facs="tcp:56658:3"/>
+            <head>The Actors.</head>
+            <list>
+               <item>
+                  <hi>Q<g ref="char:V">Ʋ</g>EEN ELIZABETH.</hi>
+               </item>
+               <item>1. <hi>Biſhop</hi> Proteſtants.</item>
+               <item>2. <hi>Biſhop</hi> Proteſtants.</item>
+               <item>A <hi>Lord,</hi> General to the <hi>Queen.</hi>
+               </item>
+               <item>Another <hi>Lord.</hi>
+               </item>
+               <item>1. <hi>Popiſh Cardinal.</hi>
+               </item>
+               <item>2. <hi>Popiſh Cardinal.</hi>
+               </item>
+               <item>
+                  <hi>Tim.</hi> a Tinker.</item>
+               <item>
+                  <hi>Bruſh</hi> a Cooper.</item>
+               <item>
+                  <hi>Honey-Suckle</hi> a Cook.</item>
+               <item>The <hi>Pope.</hi>
+               </item>
+               <item>
+                  <hi>Devil.</hi>
+               </item>
+               <item>2. <hi>Jeſuits</hi> deſigned to kill the <hi>Queen.</hi>
+               </item>
+               <item>
+                  <hi>Dulcemente</hi> a <hi>Nun,</hi> Raviſhed by the <hi>Pope.</hi>
+               </item>
+               <item>
+                  <hi>Cardinal Moricena</hi> her Father.</item>
+               <item>2. <hi>Ghoſts,</hi> 2 <hi>Devils</hi> more.</item>
+               <item>
+                  <hi>Singers</hi> and <hi>Mutes,</hi> &amp;c.</item>
+            </list>
+         </div>
+      </front>
+      <body>
+         <div type="play">
+            <pb n="1" facs="tcp:56658:3"/>
+            <head>The CORONATION OF Queen Elizabeth, WITH The RESTAURATION, <hi>&amp;c.</hi>
+            </head>
+            <div n="1" type="act">
+               <head>ACT I.</head>
+               <div n="1" type="scene">
+                  <head>SCENE I.</head>
+                  <stage>
+                     <hi>The Noiſe of Kettle Drums and Trumpets are heard, at which the Curtain riſing, diſcovers the Queen ſitting under a Cloth of State, in her Royal Robes, attended by her Lords and Ladies of Honour; two Biſhops ſupporting her Crown, and two Popiſh Cardinals ſtanding at a diſtance: The Scene imagined to be</hi> White-hall.</stage>
+                  <sp>
+                     <speaker>1. <hi>Biſh.</hi>
+                     </speaker>
+                     <p>LOng live <hi>Elizabeth</hi> of <hi>England, France</hi> and <hi>Ireland,</hi> Queen; ſole Protector of our Lives, Fortunes, and Religion, under whoſe Sacred Rule may it ſhine brighter than un<g ref="char:EOLhyphen"/>clouded Stars.</p>
+                  </sp>
+                  <sp>
+                     <speaker>A Lord.</speaker>
+                     <p>May Forreign Nations fly to do you Homage, and Kings find Succour under the Shelter of your Wings; Princes and Potentates bow down before you, as the Univerſal Good<g ref="char:EOLhyphen"/>neſs of the World: Ne'r was <hi>England</hi> ſo happy in a Monarch, nor we in ſuch a Royal Miſtriſs.</p>
+                  </sp>
+                  <sp>
+                     <speaker>2. <hi>Biſhop.</hi>
+                     </speaker>
+                     <p>May the <hi>Aethropians</hi> forget the Sun and fall down and worſhip you, whoſe Sacred Influence governs thus Mankind.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Queen.</speaker>
+                     <p>My thanks to all, But I muſt refuſe that Worſhip which the Immortal Powers have only bidden to themſelves, yet muſt own you, next to the Powers above, who have given me Eſſence, and preſerved my Life from Dangers great; placing me upon
+<pb n="2" facs="tcp:56658:4"/>this Throne to Rule a Tottering State, driven by fierce Storms of Malice, o'r the deep Billows of devouring Envy; encompaſ<g ref="char:EOLhyphen"/>ſed on every ſide with Foes, yet fearleſs will I act. Firſt then, To ſettle Religion, the deareſt part of Government, and ſureſt Rock for Princes to build upon, ſhall be my ſpeedy care to be<g ref="char:EOLhyphen"/>gin: I'll reform my own Houſe, and after that the Nation. Therefore all you who pay Obedience to the See of <hi>Rome,</hi> or think Supremacy due to the <hi>Pope,</hi> we here diſcharge you and baniſh you our Court. You my Lord Cardinals, as chief, muſt ſhew the way, and in your rooms ſuch faithful Miniſters I'll place, as ſhall be worthy of ſo great a Charge.</p>
+                     <lg>
+                        <l>Bloodſhed and Rapine ſhall to <hi>Rome</hi> retire,</l>
+                        <l>Murther and Luxury which feed the fire,</l>
+                        <l>Shall to the Scarlet Beaſt for Succour fly,</l>
+                        <l>And unimploy'd within his Boſom die.</l>
+                     </lg>
+                  </sp>
+                  <stage>Exeunt all but the 2 Cardinals.</stage>
+                  <sp>
+                     <speaker>1. <hi>Cardinal.</hi>
+                     </speaker>
+                     <p>Is it come to this?</p>
+                  </sp>
+                  <sp>
+                     <speaker>2. <hi>Card.</hi>
+                     </speaker>
+                     <p>Now Hereſie begins to peep abroad, that in <hi>Maryes</hi> days was laid as low as Earth.</p>
+                  </sp>
+                  <sp>
+                     <speaker>1. <hi>Card.</hi>
+                     </speaker>
+                     <p>Oh I could curſe her Heart out, nay, my own, for not preventing it before it had took root.</p>
+                  </sp>
+                  <sp>
+                     <speaker>2. <hi>Card.</hi>
+                     </speaker>
+                     <p>Horrors and Death, why were our hands ſo tame, when one brave ſtroak had done it at the Altar.</p>
+                  </sp>
+                  <sp>
+                     <speaker>1. <hi>Card.</hi>
+                     </speaker>
+                     <p>Where was this Devil, <hi>Rome's,</hi> great Counſellor; where was he, I ſay, that he fore-ſaw not this Monſter, to have paſhed it in the Mould of Nature, or have ſtrangled it in its Infancy, e'r it grew to ſuch a Gyantick Stature, now enough to ſhake the very Throne of <hi>Rome?</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>2. <hi>Card.</hi>
+                     </speaker>
+                     <p>It is not yet too late, the Seeds are newly ſown, and e'r they root too deep, we may pluck them up; or by lopping off the Cedar, make the Shrubs bend pliant as we pleaſe.</p>
+                  </sp>
+                  <sp>
+                     <speaker>1. <hi>Card.</hi>
+                     </speaker>
+                     <p>Let us about it then, and loſe no time; methinks I could as freely ſtrike the Heretick, as one aſſured Salvation.</p>
+                  </sp>
+                  <sp>
+                     <speaker>2. <hi>Card.</hi>
+                     </speaker>
+                     <p>'Tis that muſt crown our Wiſhes; the Queen once Murthered, the reſt are eaſily reduced unto the See of <hi>Rome;</hi> let's on then, no opportunity muſt be omitted, to get her ſpeedily diſpatched. 'Tis meritorious no doubt: Blood and Murthers are <hi>Rome's</hi> chiefeſt Glories.</p>
+                  </sp>
+                  <pb n="3" facs="tcp:56658:4"/>
+                  <sp>
+                     <speaker>1. <hi>Card.</hi>
+                     </speaker>
+                     <p>O <hi>Pius Quartu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>,</hi> aſſiſt us with thy Prayers, and Hell, if thou hop'ſt a glutting Harveſt, protect the beſt Religion.</p>
+                  </sp>
+                  <stage>Exeunt</stage>
+               </div>
+               <div n="2" type="scene">
+                  <head>SCENE II.</head>
+                  <stage>
+                     <hi>Enter</hi> Tim <hi>the Tinker,</hi> Bruſh <hi>the Cooper, and</hi> Honeyſuckle <hi>the Cook, with ſeveral other Rabble.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>Tim.</speaker>
+                     <p>
+                        <stage>Enter.</stage> Come Neighbours come,—This day is as we may ſay, a Holy day, for this day Queen <hi>Elizabeth</hi> is Crowned King of <hi>England,</hi> and therefore we ought to keep it Holy.</p>
+                  </sp>
+                  <sp>
+                     <speaker>All.</speaker>
+                     <p>We ought, we ought.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Bruſh.</speaker>
+                     <p>How Neighbour, Holy! Pray Neighbour have a care what you ſay, for methinks talking of keeping a day Holy, ſounds as if we intended to keep a day for his Holineſs.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Honey.</speaker>
+                     <p>Who's that talk's of his Holineſs? His Holineſs is a Pimp, and ſo is he that ſpeaks of him; I ſay no more, I ſay no more.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Tim.</speaker>
+                     <p>Indeed Neighbour <hi>Bruſh,</hi> my Neighbour <hi>Honeyſuckle</hi> is in the right on't; for ſince King <hi>Elizabeth</hi> has Baniſh'd Popery out of <hi>England,</hi> I ſay he's a Son of a Whore that names any thing like it.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Bruſh.</speaker>
+                     <p>Ay but Neighbour, this had been Treaſon a year ago —</p>
+                  </sp>
+                  <sp>
+                     <speaker>Tim.</speaker>
+                     <p>But now we have got a King <hi>Elizabeth,</hi> 'tis no Treaſon Neighbours; Agad I think my ſon as good a Chriſtian now, as any man of no Religion whatſoever.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Bruſh.</speaker>
+                     <p>A year ago, I had like to have been burnt for a Here<g ref="char:EOLhyphen"/>tick, becauſe the Watch took me with a Bible in my Pocket, which I had had there at leaſt a quarter of a year, and never thought on't.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Tim.</speaker>
+                     <p>Nay, I had like to have gone to pot too, for ſaying that I was as great a Whoremaſter as the Pope: But thoſe times are gone, they are I thank my Stars, or elſe we ſhould all have ſmoak'd for ſpeaking againſt the Pope. Well, I am but a Tinker, but if I would have turn'd Papiſt, I never needed to have mended Kettle more.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Honey.</speaker>
+                     <p>How's that, never mended Kettle more, that had been brave.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Tim.</speaker>
+                     <p>No, for you muſt know I am a great Politician, and a great Stateſman; that is, a man of the State: and a man of the State is a Stateſman, mark ye me Neighbours.</p>
+                  </sp>
+                  <pb n="4" facs="tcp:56658:5"/>
+                  <sp>
+                     <speaker>Honey.</speaker>
+                     <p>Why then we are all Stateſmen.</p>
+                  </sp>
+                  <sp>
+                     <speaker>All.</speaker>
+                     <p>All, all Stateſmen.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Tim.</speaker>
+                     <p>Yes, every Man and Mother's Child that don't go to Church too often; for if ye go to Church too often, People takes ye to be Religious, and then ye are look'd upon as all Plotters, Trai<g ref="char:EOLhyphen"/>tors, Conſpirators, and the like; for under Religion the Pope acts all his Villanies: and every one knows that he is the greateſt Churchman in the World.</p>
+                  </sp>
+                  <sp>
+                     <speaker>All.</speaker>
+                     <p>He is, he is, he is —</p>
+                  </sp>
+                  <sp>
+                     <speaker>Bruſh.</speaker>
+                     <p>But come Neighbours, to make right uſe of this Holy<g ref="char:EOLhyphen"/>day, let us go to the Ale-houſe, and there drink till we are drunk, come home and beat our Wives, and ſo to Sleep: Come, come, come Neighbours, come.</p>
+                  </sp>
+                  <stage>As they are going out, Enter two Cardinals.</stage>
+                  <sp>
+                     <speaker>Honey.</speaker>
+                     <p>Ha, What ha we got here, two young Popes?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Bruſh.</speaker>
+                     <p>No, no, They are Cardinals.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Tim.</speaker>
+                     <p>How Canibals! Neighbours Ud'slud, they look as if they were a hungry, I had beſt have a care they don't eat me. But now I think on't Gentlemen, Pray how dare you ſtay in <hi>London,</hi> ſince King <hi>Elizabeth</hi> has Baniſhed Popery out of <hi>England?</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>1 <hi>Card.</hi>
+                     </speaker>
+                     <p>Why, you know we ought to have Preach'd to you but—</p>
+                  </sp>
+                  <stage>Here they run upon 'um rudely.</stage>
+                  <sp>
+                     <speaker>All.</speaker>
+                     <p>But what, But what—</p>
+                  </sp>
+                  <sp>
+                     <speaker>2 <hi>Card.</hi>
+                     </speaker>
+                     <p>Why, ye are a company of Incorrigible, Impenitent, and Exorbitant Wretches —</p>
+                  </sp>
+                  <sp>
+                     <speaker>Bruſh.</speaker>
+                     <p>How's that Neighbours, Exorbitant!</p>
+                  </sp>
+                  <sp>
+                     <speaker>Tim.</speaker>
+                     <p>Ay, that's a hard word Neighbours; let me ſee, Exorbi<g ref="char:EOLhyphen"/>tant is—is—is as much as to ſay Exorbitant.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Honey.</speaker>
+                     <p>As much as to ſay, we are all Whores Birds.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Tim.</speaker>
+                     <p>All Sons of Whores, every Man and Mother's Child; for now I think on't, an Exorbitant fellow is the Son of a Whore, and the Son of a Whore is an Exorbitant fellow; Therefore I think Neighbours, theſe He Popes ought to be chaſtiſed.</p>
+                  </sp>
+                  <sp>
+                     <speaker>All.</speaker>
+                     <p>They ought, they ought—</p>
+                  </sp>
+                  <stage>Here they fall upon 'um with Broom-ſtaves.</stage>
+                  <pb n="5" facs="tcp:56658:5"/>
+                  <sp>
+                     <speaker>Card.</speaker>
+                     <p>Pray Gentlemen, pray Gentlemen be civil.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Tim.</speaker>
+                     <p>Down on your Knees then, down on your Knees, we ſay, and beg our Pardons, and that quickly.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Card.</speaker>
+                     <p>O curſed Fate! But better this than worſe, we do, we do Gentlemen, and are ſorry for what we have ſaid.</p>
+                  </sp>
+                  <stage>Aſide.</stage>
+                  <sp>
+                     <speaker>Tim.</speaker>
+                     <p>Well, now I know 'um, that's he that burnt my Neighbour <hi>Mole</hi> the Sexton for a Heretick, who was of no Religion.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Bruſh.</speaker>
+                     <p>And that ſly Scarlet Rogue, becauſe I would not let him Raviſh my Wife, and Debauch my Daughter, burnt them both for Hereticks. —</p>
+                  </sp>
+                  <sp>
+                     <speaker>Honey.</speaker>
+                     <p>And that's the Fellow that lay with my Wife behind the Buttery door, and made me a Cuckold to my face; but 'tis no matter, we'll Plague 'um for it now we have got 'um in our clutches; they had better have been at <hi>Rome</hi> I'faith.</p>
+                  </sp>
+                  <stage>Tuking off their Hats and Mantles, they rudely force them out.</stage>
+                  <sp>
+                     <speaker>All.</speaker>
+                     <p>Come, come, Away with 'um, away with 'um.</p>
+                  </sp>
+                  <stage>Force them out.</stage>
+                  <sp>
+                     <speaker>Tim.</speaker>
+                     <l>Thus like two <hi>Roman</hi> Hero's handy dandy,</l>
+                     <l>We'll go to the Alehouſe to be Drunk with Brandy.</l>
+                  </sp>
+                  <stage>Exeunt in the Cardinals Hats, and other Ornaments.</stage>
+               </div>
+               <div n="3" type="scene">
+                  <head>SCENE III.</head>
+                  <stage>The Scene draws off, and diſcovers the Romiſh Conclave, the Pope, Cardinals, and Biſhops, as in cloſe Conſult.</stage>
+                  <sp>
+                     <speaker>Pope.</speaker>
+                     <p>Now let the Joy of <hi>Rome</hi> be great, and let every indivi<g ref="char:EOLhyphen"/>dual Father cry, Long live Religious Soul, and Scourge of Hereſie, <hi>Mary</hi> of <hi>England,</hi> Eldeſt Daughter to this Holy See, read here.</p>
+                  </sp>
+                  <stage>Delivers a Paper to a Cardinal.</stage>
+                  <sp>
+                     <speaker>1 <hi>Card.</hi>
+                     </speaker>
+                     <p>How's this, 300 burnt alive in a Church as they were Preaching Hereſie and cloſe Rebellion againſt this Holy Catholick and Apoſtolick See: Ten more ſuch Sacred Murthers would have made the haughty <hi>Turk</hi> and ſtubborn <hi>Flemming</hi> to have own'd you the Supreme Head of the Univerſal Church—</p>
+                  </sp>
+                  <sp>
+                     <speaker>2 <hi>Card</hi>
+                     </speaker>
+                     <p>'Tis great and Meritorious, let him be Canoniz'd for a Saint, that firſt invented this Religious way of ſending Troops of Heretick to Hell together.</p>
+                  </sp>
+                  <pb n="6" facs="tcp:56658:6"/>
+                  <sp>
+                     <speaker>Pope.</speaker>
+                     <p>Let it e done, 'tis my Command it be ſo; for the Pro<g ref="char:EOLhyphen"/>pagators of Religion ought to be cheriſhed, though in Blood: and let our ſpeedy thanks be ſent to our beſt Daughter, for taking ſuch effectual care to blaſt the growing Hereſie, and keep it under foot.</p>
+                  </sp>
+                  <sp>
+                     <speaker>1 <hi>Card.</hi>
+                     </speaker>
+                     <p>She ought to be Sainted whilſt on Earth, and when wrapped up into the brighter Manſions, far above this lower world, be Enthroned a Goddeſs, and adored, who found her ſelf uneaſie in her Thoughts and reſtleſs, till opportunity gave leave to throw her Self and Crown at your Sacred feet, deſiring to be received into your boſom—</p>
+                  </sp>
+                  <sp>
+                     <speaker>Pope.</speaker>
+                     <p>And by ſo doing has fenced her ſelf within a Wall of Addamant, too ſecure for Envy, or the prying Fates to reach; and her Ambaſſadors ſhall ſtill have the preheminency in all our Courts.</p>
+                  </sp>
+                  <sp>
+                     <speaker>2 <hi>Card.</hi>
+                     </speaker>
+                     <p>Who dares diſpute it, if it pleaſes you, when all the Glories of the Earth depend upon your Will? Monarch's but a Name you lend to pleaſure haughty Man withal, and when you pleaſe to call it back, Kings are as ſoon deveſted of their Honours, as are your meaneſt Slaves.</p>
+                  </sp>
+                  <stage>Enter the Devil in the ſhape of a Jeſuit, as in great Conſternation.</stage>
+                  <sp>
+                     <speaker>Pope.</speaker>
+                     <p>Ha! Your Eyes ſpeak wonders, and forebodes ſome diſmal Meſſage to the See of <hi>Rome.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Devil.</speaker>
+                     <p>Diſmal indeed, the Flower of <hi>Rome</hi> is gone, the Star that lately ſhone ſo bright in your great Firmament, is ſet; The Sa<g ref="char:EOLhyphen"/>cred Empreſs of the Northern Iſles, the angry Power have ſnatched away, <hi>Mary</hi> of <hi>England</hi>'s Dead.</p>
+                  </sp>
+                  <stage>All riſing, come forwards.</stage>
+                  <sp>
+                     <speaker>All.</speaker>
+                     <p>How!</p>
+                  </sp>
+                  <sp>
+                     <speaker>Devil.</speaker>
+                     <p>Cold as the face of Ice, and in her ſtead the haughty Mag<g ref="char:EOLhyphen"/>nanimous Siſter's Crown'd—But Crown'd to make Religion and her Ancient Seat ſtagger and fall before her.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Pope.</speaker>
+                     <p>Curs'd diſafter.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Devil.</speaker>
+                     <p>All of the Church of <hi>Rome</hi> ſhe has Diſgraced, and the greateſt Places of Truſt about her Perſon, are given to Hereticks; no <hi>Roman</hi> is to be ſeen in <hi>London</hi> now, but ſuch as ſculk in Corners, or thoſe of ſuch puny Souls that ſwallow all the Execrable Oaths they lay before them.</p>
+                  </sp>
+                  <pb n="7" facs="tcp:56658:6"/>
+                  <sp>
+                     <speaker>Pope.</speaker>
+                     <p>Let them ſwallow all they can Impoſe, we make it Law<g ref="char:EOLhyphen"/>ful, we'll grant them Diſpenſations for ſo doing; no matter if the whole outſide taſte of Heretick, ſo within they remain firm to us—</p>
+                  </sp>
+                  <sp>
+                     <speaker>'Devil.</speaker>
+                     <p>Something muſt be done to change the Scene, leaſt other Nations taking Example from her, ſhould fall from their Obedience, and throw off your yoak.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Pope.</speaker>
+                     <p>There ſhall; Nor muſt we linger in a Cauſe of ſuch a vaſt Importance: for Hereſie, like Weeds, grow faſt, and if timely care be not taken to prevent it, the World e'r we can root them out will be Infected.
+<stage>Speaks to the Cardinal.</stage> Father, your Advice in this great Affair.</p>
+                  </sp>
+                  <sp>
+                     <speaker>1 <hi>Card.</hi>
+                     </speaker>
+                     <p>She muſt be Murthered, and that without delay.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Devil.</speaker>
+                     <p>Spoke like a Saint that would fain be in Hell before his time.</p>
+                     <stage>Aſide.</stage>
+                  </sp>
+                  <sp>
+                     <speaker>Pope.</speaker>
+                     <p>Murther's too groſs a name, and ſounds too harſh in Peo<g ref="char:EOLhyphen"/>ples Ears; let her be made away ſecretly: Sign a ſpeedy Warrant for her Death.</p>
+                  </sp>
+                  <stage>The Cardinal Takes the Warrant, and having Signed it, delivers it to the Pope, who gives it to the Devil.</stage>
+                  <sp>
+                     <speaker>Pope.</speaker>
+                     <p>Here take this, and with our ample Pardon, though it be for the blackeſt Murthers Hell e'r knew, the Burning of Cities, or Deflowring of Virgins.</p>
+                     <l>For to promote Religion naught's withſtood,</l>
+                     <l>Empires muſt fall, and Kingdoms ſet in Blood.</l>
+                     <l>Blood muſt Cement the tottering State of <hi>Rome,</hi>
+                     </l>
+                     <l>And Heaven ſhall warrant all the Ills we doom.</l>
+                     <l>To fix Religion in its bleſſed abode,</l>
+                     <l>Should be the mighty Buſineſs of a God:</l>
+                     <l>Murther's the end, the Trait'reſs ſhall not live,</l>
+                     <l>Who kills for <hi>Rome, Rome</hi>'s Vicar will forgive.</l>
+                  </sp>
+                  <stage>
+                     <hi>Exeunt Pope, Cardinal, Biſhops,</hi> &amp;c.</stage>
+                  <sp>
+                     <speaker>Devil.</speaker>
+                     <p>I can but laugh now, to think how theſe old Fools are cheated: This is the Warrant that Signs the Pope's Deſtruction. That muſt needs be a hopeful Religion, that has the Devil to it for
+<pb n="8" facs="tcp:56658:7"/>a Tutor. 'Tis Murther and Poiſon that brings them to the Pope<g ref="char:EOLhyphen"/>dom, where for a while, they enjoy all earthly Pleaſures; but then by dire Miſchance, or their own Luxury, Death ſnatches them hence, and then they are hurried Headlong down to my great Maſter.</p>
+                     <l>For he which in Pleaſure gives his Soul to dwell</l>
+                     <l>A Pope on Earth, muſt be a Devil in Hell.</l>
+                  </sp>
+                  <stage>Exit.</stage>
+               </div>
+            </div>
+            <div n="2" type="act">
+               <head>ACT II.</head>
+               <div n="1" type="scene">
+                  <head>SCENE I.</head>
+                  <stage>Enter two Cardinals.</stage>
+                  <sp>
+                     <speaker>1 <hi>Card.</hi>
+                     </speaker>
+                     <p>THis is the time the friendly Fates to <hi>Rome</hi> have ſet to cut the root of Hereſie, and Crown Religion Monarch in the Throne: E'r to Morrow's dawn the haughty Uſurpreſs ſhall be no more.</p>
+                  </sp>
+                  <sp>
+                     <speaker>2 <hi>Card.</hi>
+                     </speaker>
+                     <p>Who are the Aſſaſſines? Are they qualified for ſuch a Work? That their bold Hands at once may ſtrike, and Tongues forſwear 'twas they.</p>
+                  </sp>
+                  <sp>
+                     <speaker>1 <hi>Card.</hi>
+                     </speaker>
+                     <p>Doubt it not; They are two Fellows bred up in Villa<g ref="char:EOLhyphen"/>ny; Raſcals that have ſuckt Murther from the very Intrals of a Priſon: I have agreed with them for ſo many Maſſes to Kill the Queen, and if they bring them off ſhort Heaven, there is no Truth in our Religion.</p>
+                  </sp>
+                  <sp>
+                     <speaker>2 <hi>Card.</hi>
+                     </speaker>
+                     <p>You may as well miſdoubt Eternity, as Holy Vnction, Maſs and Prayer.</p>
+                  </sp>
+                  <sp>
+                     <speaker>1 <hi>Card.</hi>
+                     </speaker>
+                     <p>Should they fail, I would ſtrike the blow my ſelf; me<g ref="char:EOLhyphen"/>thinks I could as eaſily do it, as I can merit my Salvation.—</p>
+                  </sp>
+                  <stage>Enter the Devil in the ſhape of a Jeſuit.</stage>
+                  <sp>
+                     <speaker>Devil.</speaker>
+                     <p>Loſt, loſt, and undone for ever. Fly,—Fly,—the Trea<g ref="char:EOLhyphen"/>cherous Secretaries of the Ambaſſador, juſt as the blow was going to be given, have unravelled all the Secrets of the Plot, and laid them open for each Vulgar Eye to pry into.</p>
+                  </sp>
+                  <pb n="9" facs="tcp:56658:7"/>
+                  <sp>
+                     <speaker>1 <hi>Card.</hi>
+                     </speaker>
+                     <p>O Dam 'um for Fools and Cowards, to boggle at a thing call'd Conſcience, when Religion bids them Act.</p>
+                  </sp>
+                  <sp>
+                     <speaker>2 <hi>Card.</hi>
+                     </speaker>
+                     <p>Why if the Plot be Diſcovered, we ſhall all be hang'd if we are taken.</p>
+                  </sp>
+                  <sp>
+                     <speaker>1 <hi>Card.</hi>
+                     </speaker>
+                     <p>But what ſay the Aſſaſſines? How ſtand they affected?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Devil.</speaker>
+                     <p>Some glimmerings they have, but as yet no certainty of what has paſs'd; which makes them ſtill Lurk about the Court, re<g ref="char:EOLhyphen"/>ſolving this Night to kill the Queen.</p>
+                  </sp>
+                  <sp>
+                     <speaker>2 <hi>Card.</hi>
+                     </speaker>
+                     <p>Haſte then, and give them all the Encouragement and Aſſiſtance that thou canſt deviſe, ſlip no Opportunity to perfect ſuch a glorious Work; in the Name of <hi>Rome</hi>'s univerſal Lord, I charge thee haſte; let not a moments ſtay retard thy ſteps.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Devil.</speaker>
+                     <p>I go, Imperious Cardinals, but 'tis my Maſter's Intereſt I conſult, not yours; though you are they that reap our Harveſt of dire Sin, 'tis we that have the Profit of the Scarlet Grain to fill our Stores. I'll leave ye to your Fates, it will not be longe'r
+<stage>Aſide.</stage> the Law ſhall ſtrangle you; when all your quibblings will not ſave you.</p>
+                  </sp>
+                  <stage>Exit Devil.</stage>
+                  <sp>
+                     <speaker>1. <hi>Card.</hi>
+                     </speaker>
+                     <p>Well, we muſt be ſwift in all we do, this opportunity let ſlip will ruin us, and put diſgrace upon the Cauſe for ever.</p>
+                  </sp>
+                  <sp>
+                     <speaker>2 <hi>Card.</hi>
+                     </speaker>
+                     <p>Death and Confuſion ſeize the Hereticks e'r that be done, Horror and the darkeſt deeds of Night ſhall be their Portions.</p>
+                  </sp>
+                  <sp>
+                     <speaker>1 <hi>Card.</hi>
+                     </speaker>
+                     <p>'Tis in vain to linger, we muſt hence or ſhall be diſco<g ref="char:EOLhyphen"/>vered by ſome prying Eyes; let us in obſcurity await the bleſſed event.</p>
+                  </sp>
+                  <sp>
+                     <speaker>2 <hi>Card.</hi>
+                     </speaker>
+                     <p>If the Aſſaſſines fail, <hi>Rome</hi>'s ancient Glory ſhall not fall, for this bold Hand ſhall ſtrike the buſie Heretick, and puſh her headlong down from her Vſurped Throne.</p>
+                     <l>What's done for <hi>Rome</hi> muſt needs, if great, be good,</l>
+                     <l>He merits Heav'n, whoſe Soul is bath'd in Blood.</l>
+                  </sp>
+               </div>
+               <div n="2" type="scene">
+                  <pb n="10" facs="tcp:56658:8"/>
+                  <head>SCENE II. <hi>Queens Garden.</hi>
+                  </head>
+                  <stage>Enter two Aſſaſſines in the Habits of Jeſuits, with Daggers in their hands.</stage>
+                  <sp>
+                     <speaker>1 <hi>Aſſaſſin.</hi>
+                     </speaker>
+                     <p>This is the Night deſign'd to waſh our hands in Blood of Hereticks, to cut down that high Cedar that has made her ſelf <hi>Rome</hi>'s Envy; nor ſhall we want Gold for perfecting ſo brave a Work; the Enterprize muſt be with Reſolution undertook, and as fearleſs we muſt on, as did that brave <hi>Burgundian</hi> who killed the Prince of <hi>Orange.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>2 <hi>Aſſaſſ.</hi>
+                     </speaker>
+                     <p>Remember <hi>Raviliac,</hi> and let us boldly undertake an Act ſo meritorious; nor let our hands be ſlack to ſtrike our fatal Daggers home into her Breaſt; plunge them to the Hilt, and when we've drawn 'um out, laugh loud, as being pleaſed to ſee the ſtreaming gore be-crimſon the pale Surface of the Earth.</p>
+                  </sp>
+                  <sp>
+                     <speaker>1 <hi>Aſſaſſ.</hi>
+                     </speaker>
+                     <p>See where the Queen comes, attended only by one Gentleman. Now's the time to cut the Root of Hereſie, and if ſhe <g ref="char:punc">▪</g>ſcape us, may we be accurſed for ever. Methinks the blow's al<g ref="char:EOLhyphen"/>ready ſtruck, and Death has huſhed her ſilent in his frozen Arms.</p>
+                  </sp>
+                  <sp>
+                     <speaker>2 <hi>Aſſaſſ.</hi>
+                     </speaker>
+                     <p>Let us abſcond a while, the better to ſurprize her.</p>
+                  </sp>
+                  <p>
+                     <stage>They retire and ſtand unſeen.</stage>
+                  </p>
+                  <p>
+                     <stage>The Queen Enters with one Gentleman.</stage>
+                  </p>
+                  <sp>
+                     <speaker>Queen.</speaker>
+                     <p>Are all things done according to my Order.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Gent.</speaker>
+                     <p>They are, in all things I have been obedient to fulfil your Royal Pleaſure.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Queen.</speaker>
+                     <p>What ſaid the <hi>French</hi> Ambaſſador to his Accuſation?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Gent.</speaker>
+                     <p>Haughty and bold, like any Guiltleſs man he did behave himſelf before the Council, denying that he knew ought againſt your Sacred Life, or was not obliged to tell it if he did; he only al<g ref="char:EOLhyphen"/>ledg'd, That it was not in the Power of any Council to tax the King's Repreſentative, much more to demand ſuch Queſtions of him, as none but his Maſter ought to know.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Queen.</speaker>
+                     <p>'Tis cloſe and dark, as all their other Actions are, but we'll not meddle with <hi>Lemaſpin</hi> more; only tell him our juſt reſentments, that we Baniſh him our Court, and ſpeedy care ſhall be taken to ſend him quickly to his own Land.</p>
+                     <pb n="11" facs="tcp:56658:8"/>
+                     <l>What Powers Divine Protect, <hi>Rome</hi> cannot harm,</l>
+                     <l>Nor can the Scarlet Beaſt our Senſes charm;</l>
+                     <l>Piſtol nor Poiſon ne'r can make her ſtart,</l>
+                     <l>Who has Heav'ns Sacred Armour for her Heart.</l>
+                  </sp>
+                  <p>
+                     <stage>Exeunt Queen and Gentleman.</stage>
+                  </p>
+                  <p>
+                     <stage>The Aſſaſſines come out from their Ambuſcade and follow them.</stage>
+                  </p>
+                  <sp>
+                     <speaker>1 <hi>Aſſaſſ.</hi>
+                     </speaker>
+                     <p>Now, now's the time, ſtrike home—Now for cutting the very root of Hereſie, that it ſhall never ſprout in <hi>England</hi> more; let's on, let's on, I ſay.</p>
+                  </sp>
+                  <sp>
+                     <speaker>2 <hi>Aſſaſſ.</hi>
+                     </speaker>
+                     <p>My heart fails me, I cannot touch her.</p>
+                  </sp>
+                  <sp>
+                     <speaker>1 <hi>Aſſaſſ.</hi>
+                     </speaker>
+                     <p>Cowardly Slave, art thou not paid for Murther?</p>
+                  </sp>
+                  <sp>
+                     <speaker>2 <hi>Aſſaſſ.</hi>
+                     </speaker>
+                     <p>Not as you are aſſured Salvation; therefore ſtrike you, and that quickly, or I'll kill you, and ſo end the Diſpute.</p>
+                  </sp>
+                  <sp>
+                     <speaker>1 <hi>Aſſaſſ.</hi>
+                     </speaker>
+                     <p>Villain, thou dareſt not.</p>
+                  </sp>
+                  <sp>
+                     <speaker>2 <hi>Aſſaſſ.</hi>
+                     </speaker>
+                     <p>You ſhall ſee I dare.</p>
+                  </sp>
+                  <stage>
+                     <hi>Here they fight with their Daggers, during which,</hi> Tim, Bruſh, <hi>and</hi> Honeyſuckle, <hi>with ſeveral others Enter.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>Tim.</speaker>
+                     <p>Why how now, what's to do here? what two Fellows a Fighting in the Queen's Garden.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Honey.</speaker>
+                     <p>I'll be hang'd if theſe Fellows have not a hand in the Plot, and come hither to Kill the Queen.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Tim.</speaker>
+                     <p>It may be it may be ſo, therefore I think it fit that we ſeize 'um, and carry 'um before a Juſtice of Peace to have 'um Examin'd.</p>
+                  </sp>
+                  <stage>
+                     <hi>Here they ſeize them, upon which they tremble, and endea<g ref="char:EOLhyphen"/>vour to hide their Daggers,</hi> &amp;c.</stage>
+                  <sp>
+                     <speaker>Tim.</speaker>
+                     <p>Pray Gentlemen of what Trade or what Calling are ye, for know Gentlemen, I have Power to apprehend ye, and make ye give a better account of your ſelves, and what buſineſs you had here. Ha, What are theſe! Truly Gentlemen, theſe are ſuſpections Weapons.</p>
+                  </sp>
+                  <stage>Finding the Daggers.</stage>
+                  <sp>
+                     <speaker>Honey.</speaker>
+                     <p>Ud'slud ſee ye here, as I take it Neighbours, if I am not miſtaken, they ſhould be Butchers by their Knives.</p>
+                  </sp>
+                  <pb n="12" facs="tcp:56658:9"/>
+                  <sp>
+                     <speaker>Tim.</speaker>
+                     <p>Well, come Gentlemen, I muſt carry you and theſe before a Magiſtrate, and have you both Examined; and I'll promiſe you Gentlemen, I'll be ſo kind to you, that I won't leave you till I ſee you both fairly Hang'd: Come away with 'um, away with 'um; bring 'um along, bring 'um along.</p>
+                  </sp>
+                  <sp>
+                     <speaker>All.</speaker>
+                     <p>Along with 'um, along with 'um.</p>
+                     <stage>They force them out.</stage>
+                  </sp>
+               </div>
+               <div n="3" type="scene">
+                  <head>SCENE III.</head>
+                  <stage>The Scene draws off, and diſcovers the Pope ſitting by a Nun.</stage>
+                  <sp>
+                     <speaker>Pope.</speaker>
+                     <p>Come thou beſt Partner of my ſilent Joys, let me Em<g ref="char:EOLhyphen"/>brace thee thus, and in Slumbers ſoft repoſe on thy fair Breaſts, lulled between thy Arms, whoſe Ivory bends can only make the circle of a laſting Pleaſure, in which to charm the Univerſal Pre<g ref="char:EOLhyphen"/>late, <hi>Rome</hi>'s awful Head, and Ruler of the World.</p>
+                  </sp>
+                  <stage>They riſe and come forward.</stage>
+                  <sp>
+                     <speaker>Nun.</speaker>
+                     <p>Alaſs, what would you have me do? I am ignorant of what you mean.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Pope.</speaker>
+                     <p>Only to Solace in Delight and Dalliance, as did thy Fa<g ref="char:EOLhyphen"/>ther in thy Mothers Arms, when their Loves mixed to give thee Being.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Nun.</speaker>
+                     <p>All Society of Men in that Nature are by your ſtricteſt Laws forbid to Nuns; or would you have me break my Vows of Chaſtity, and all the Ties Religion does impoſe, to my diſhonour and diſgrace.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Pope.</speaker>
+                     <p>All Vows ſo made, I freely here diſpenſe; and as for Religion, it is but a Trade lately found out, for to maintain ſuch as would live at eaſe, as cannot frame themſelves to labour. A meer Cheat, that has been lately put upon the Word, to delude eaſie people, and keep them up to ſtrict Obedience: None but Women and Fools do believe that we can Save or Damn for Mo<g ref="char:EOLhyphen"/>neys whom we pleaſe; or that Salvation can be bought or ſold.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Nun.</speaker>
+                     <p>Why then are ſilly Virgins enticed by ſpecious pretences of Meriting Heaven, to theſe cloſe Confinements, to undergo ſuch Penances as Midnight Mattins, Shifts of Hair, and Diſcipline? If all is but a Fable, why are we not undeceiv'd.</p>
+                  </sp>
+                  <pb n="13" facs="tcp:56658:9"/>
+                  <sp>
+                     <speaker>Pope.</speaker>
+                     <p>Few Artificers declare the Knack by which they live, un<g ref="char:EOLhyphen"/>leſs for Money or long Servitude; 'tis that by which we do deceive the prying Eyes of thoſe that we would keep under ſubjection.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Nun.</speaker>
+                     <p>Then all your Piety's but feigned, a meer Fiction all.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Pope.</speaker>
+                     <p>Nothing more, for how can you imagine that the Clergy could conſiſt or live without ſuch ſoft dear things as are your Sex in general; for was it not for Procreation, Nature would ſtand ſtill, and the whole Creation being out of frame run backward—</p>
+                  </sp>
+                  <p>
+                     <stage>Embraces her.</stage>
+                  </p>
+                  <p>
+                     <stage>Enter the Devil in the Habit of a Jeſuit.</stage>
+                  </p>
+                  <sp>
+                     <speaker>Devil.</speaker>
+                     <p>Why this is as it ſhou'd be; why ſhould not you, who have the World all at Command, and Heav'n in ſtore, always <gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ull in Pleaſures.—For what were thoſe glittering Angels made, if not to be enjoyed? To your Bed of Pleaſure Sir, and in the Morning I'll at<g ref="char:EOLhyphen"/>tend you; and in the mean time take care to manage your Affairs againſt the Hereticks—</p>
+                  </sp>
+                  <stage>The Pope Embracing him.</stage>
+                  <sp>
+                     <speaker>Pope.</speaker>
+                     <p>Thanks my deareſt beſt of Friends (thou haſt been always kind to me) I'll take thy Counſel, and expect thee when to Mor<g ref="char:EOLhyphen"/>row dawns.</p>
+                  </sp>
+                  <stage>Exeunt Pope, leading the Nun, and as they are going out the Devil with a Dagger offers to ſtrike him.</stage>
+                  <sp>
+                     <speaker>Dev.</speaker>
+                     <p>To cut his thread of Life juſt now, is the ready way to Damn him; but then I break the Promiſe of a Devil—No, he ſhall live till Fate or dire Miſchance puſh him upon me, and I'm ſure he wants not much of that by Nature's Courſe, were not his Luxuries enough, Damnation is his Bargain, and the Price of my dear purchaſed Ser<g ref="char:EOLhyphen"/>vice; ſo the fat cram'd Clergy, and the ſordid Laity, with willing feet come crowding to my great Maſter, who leads the Pope by the Noſe, and ſits as Partner with him in the Popedom: But it ſhall be my future Buſineſs to ſupplant them both, and ſo at once to rid the Chair of a Luſtful Pope, and an Imperious Devil.</p>
+                     <l>Pope thou art ready, and we all agree.</l>
+                     <l>When thou com'ſt to Hell to keep a Jubilee.</l>
+                  </sp>
+                  <pb n="14" facs="tcp:56658:10"/>
+                  <sp>
+                     <speaker>Tim.</speaker>
+                     <p>
+                        <stage>Speaks Entring.</stage> Come come Neighbours, come along; Come, or we ſhall never get there time enough to ſee them Hang'd.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Bruſh.</speaker>
+                     <p>No, nor hear them confeſs neither.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Tim.</speaker>
+                     <p>Confeſs, why Neighbour <hi>Bruſh,</hi> are you ſuch a Fool to think that they will confeſs, now the Pope has Pardon'd them; no I'll warrant ye, they will confeſs no more than a Poſt, nor ſo much neither.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Honey.</speaker>
+                     <p>Why, what would you have men confeſs that are Innocent.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Tim.</speaker>
+                     <p>How Innocent!—How dare you, being but a Cook, ſay they are Innocent! Sirrah, How dare you ſay they are Innocent?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Honey.</speaker>
+                     <p>Why Sir, I do ſay ſo, and will maintain it upon any ground in <hi>England</hi>—</p>
+                  </sp>
+                  <stage>Bruſh <hi>goes out.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>Tim.</speaker>
+                     <p>How do'ſt thou mean, fighting ways?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Honey.</speaker>
+                     <p>With all my heart.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Tim.</speaker>
+                     <p>Why then as I'm a Tinker, upon my Honour I'll fight thee.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Honey.</speaker>
+                     <p>The time.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Tim.</speaker>
+                     <p>After Execution, and if I beat you, you ſhall turn Prote<g ref="char:EOLhyphen"/>ſtant; but if you beat me, I'll be dragged to <hi>Rome</hi> in Chains, and there turn Pope.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Honey.</speaker>
+                     <p>Agreed, Agreed.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Tim.</speaker>
+                     <p>Look to it you Son of a—for I ſhall ſo maul thee; I ſay no more, but look to it—</p>
+                  </sp>
+                  <stage>
+                     <hi>As they are going out</hi> Bruſh <hi>meets them.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>Bruſh.</speaker>
+                     <p>Whither, whither ſo faſt; they are all Dead already, all Hang'd.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Tim.</speaker>
+                     <p>How all Dead! All Hang'd! why then A Pox Choak 'um I ſay; it's true I thought to have ſeen 'um ſhake their heels, but 'tis no matter, ſince they are Dead they are paſt Plotting, and now may King <hi>Elizabeth</hi> Live and Reign in Safety—O that ſhe had but forty ſuch Subjects as I am, ſhe would be the happieſt Queen in <hi>England,</hi> a-gad ſhe wou'd. Cook, look to it—But now I think on't Sirrah, Pray what Religion are you on—</p>
+                  </sp>
+                  <sp>
+                     <speaker>Honey.</speaker>
+                     <p>Why of your Religion.</p>
+                  </sp>
+                  <pb n="15" facs="tcp:56658:10"/>
+                  <sp>
+                     <speaker>Tim.</speaker>
+                     <p>How can that be, I am of King <hi>Elizabeths</hi> Religion— Ha, ha, Sirrah, methinks you ſmell ſomewhat ſtinking, like a Papiſt.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Honey.</speaker>
+                     <p>Why I am a Papiſt, what then?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Tim.</speaker>
+                     <p>How a Papiſt, in the company of a Tinker and a States<g ref="char:EOLhyphen"/>man? knock him down, knock him down.</p>
+                  </sp>
+                  <stage>They all up with their Staves and offer to knock him down.</stage>
+                  <sp>
+                     <speaker>Honey.</speaker>
+                     <p>I, I, do, and the Law ſhall —</p>
+                  </sp>
+                  <sp>
+                     <speaker>Tim.</speaker>
+                     <p>Nay, now he talks of the Law let him alone, for we are not to knock any Man down that underſtands the Law.</p>
+                     <p>But look to it, Sirrah, about an hour hence, for I ſhall ſo maul thee, Vds-bud I ſhall, thou Son of a Papiſt thou;</p>
+                     <l>Even till I make thee ſwear, this Bum</l>
+                     <l>Is Holier Fleſh than all the Pope is of <hi>Rome.</hi>
+                     </l>
+                     <p>Come, come, Neighbour, for one cherriping Cup, and then to the Fight.</p>
+                  </sp>
+                  <stage>Exeunt omnes.</stage>
+               </div>
+            </div>
+            <div n="3" type="act">
+               <head>ACT III.</head>
+               <div n="1" type="scene">
+                  <head>SCENE I.</head>
+                  <stage>
+                     <hi>The</hi> Scene <hi>opens, and diſcovers the</hi> Pope <hi>and</hi> Nun <hi>ſitting upon a Couch.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>Pope.</speaker>
+                     <p>NOw thou lookeſt more lovely Fair than <hi>Venus</hi> e'r could boaſt her ſelf to be, and on thy Cheeks more roſie Bluſhes ſit, than <hi>Sol</hi> could ever ſpare to deck the early Morn; and now my <hi>Dulcementa,</hi> 
+                        <stage>They come forward.</stage> in a Dream, when ſoft Slumbers cloſe her Eyes, may by the force of Fancy, be well pleaſed with what timerous Virgins wiſh, but have not known. Is not this better than poring upon Religion? Thou art the only Book I'll ever read, unleſs to cheat the prying Eyes of <hi>Rome.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Nun.</speaker>
+                     <p>I muſt confeſs you have taught me to forget the thorny way, which I poor fool once wandered in, being miſled; but
+<pb n="16" facs="tcp:56658:11"/>now by your Advice, return to taſte of Pleaſures and Delights, I had not elſe been capable to underſtand. They cannot ſure be ill, that you the Univerſal God on Earth vouchſafe to try — But alas, What will my Father Cardinal <hi>Moricena</hi> ſay, when he comes to know of this, and when our mid-night Meetings are diſcovered to the World, as e'r long they muſt, I find by ſomething that forbodes within me —</p>
+                  </sp>
+                  <sp>
+                     <speaker>Pope.</speaker>
+                     <p>Alas! Thy Father dares not blab, for if he do, I have a Sleeping Pill, that ſhall ſeal his Mouth for ever: And as for the World, who dares grumble at the <hi>Pope,</hi> the Vni<g ref="char:EOLhyphen"/>verſal Biſhop of the Church, or queſtion ought he does?</p>
+                  </sp>
+                  <stage>Enter the Devil in the ſhape of a Jeſuit.</stage>
+                  <sp>
+                     <speaker>Devil.</speaker>
+                     <p>Fly, fly, or all will be diſcovered, Cardinal <hi>Moricena</hi>'s at the Gate, railing againſt your Holineſs; calling you Monſter, Beaſt, Leacher, and the vileſt terms that Envy can invent.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Nun.</speaker>
+                     <p>Oh where ſhall I fly, to hide me from his angry Face? Now gilt comes faſt upon me, and I tremble at the thoughts of what I have committed.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Devil.</speaker>
+                     <p>'Tis too late, for ſee he enters.
+<stage>Enters with a Dagger.</stage>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Moricena.</speaker>
+                     <p>Where is this Leacherous <hi>Pope,</hi> this He decripid Goat, the ſcandal to the Holy Chair for ever? And where is this Irreligious Nun, the ſhame of her Sex and my Honour? — Oh have I found you after your glutting in all unlawful Pleaſures: Take that for a reward.
+<stage>Stabs her.</stage>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Nun.</speaker>
+                     <p>Oh Father forgive me, in your Arms I do deſire to die; and as with your Aid I did receive this mortal Shape, into your Boſom let me breath my laſt: It was that Monſter that betrayed my Innocence, by telling me Religion was but a trick, invented to delude eaſie Women withal, or as a trade found out for to maintain ſuch as were incapable of labour; a meer cheat or ſhadow, without ſubſtance: and with ſtrong Allurements wone me to his Luſt, which now I heartily repent me of, with my laſt breath, whil'ſt fainting in your Arms I die.
+<stage>Dies.</stage>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Pope.</speaker>
+                     <p>Damn'd Incarnate Devil, what haſt thou done, thou haſt ſlain that Angel in thy Daughters Shape, that ſhall deny thee thy Salvation: I as grand Prelate to the Church, will ſend
+<pb n="17" facs="tcp:56658:11"/>my <hi>Mandate</hi> to my Patron <hi>Peter,</hi> that when thy Soul ſhall mount, to ſtrike it headlong down from Heavens Chryſtal Gates, into the deep Abiſs.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Morice.</speaker>
+                     <p>Talk on, talk on, Laſcivious <hi>Pope,</hi> thou Head of Hell, not <hi>Rome:</hi> How can'ſt thou look upon an Angry Father, whoſe Daughter thou haſt ſo baſely defloured, and cauſed him to kill?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Devil.</speaker>
+                     <p>Kill the old Cox-comb, Sir, he will be babbling elſe, kill him, I ſay, or elſe you cannot be ſafe.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Pope.</speaker>
+                     <p>
+                        <hi>Moricena,</hi> let me Embrace thee thus.
+<stage>Stabs him.</stage>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Morice.</speaker>
+                     <p>Ah, I'm ſlain.
+<stage>Dies.</stage>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Pope.</speaker>
+                     <p>Take that for railing at the <hi>Pope,</hi> and that for prying into his ſecret Love.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Aſide Devil.</speaker>
+                     <p>Evil Counſel is a ſure way to puſh a Man upon Damnation, and I am ſure he wants not much of that.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Pope.</speaker>
+                     <p>Well what's next to be done?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Devil.</speaker>
+                     <p>Fly <hi>Rome,</hi> Sir, without loſs of Life or Honour; this Cardinal reviled much the Peoples Hearts, and when the Mur<g ref="char:EOLhyphen"/>ther's known, they'll feek Revenge: Take all your Jewels, and Things of greateſt value, eaſieſt portable; and in ſome far Countrey ſpend the reſidue of your days in pleaſure.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Pope.</speaker>
+                     <p>It will grieve me much to be depoſed, but more to ſuffer a ſhameful and ignominious Death; by the hands of thoſe that were my Slaves:—I was a fool to kill him—</p>
+                     <l>For Men though great, yet are not always good,</l>
+                     <l>Who like to <hi>Rome,</hi> delight to deal in Blood.</l>
+                  </sp>
+                  <stage>Exit Pope.</stage>
+                  <sp>
+                     <speaker>Devil.</speaker>
+                     <p>Well, like his ſhadow I muſt follow him whereſoever he goes, his thread of Life is almoſt ſpun, and then he falls to my great Maſters ſhare—</p>
+                     <l>I'll haſte, an in deſtruction puſh him on,</l>
+                     <l>And then I'll leave him in confuſion.</l>
+                  </sp>
+                  <stage>Exit Devil.</stage>
+               </div>
+               <div n="2" type="scene">
+                  <pb n="18" facs="tcp:56658:12"/>
+                  <head>SCENE II.</head>
+                  <stage>
+                     <hi>Enter</hi> Tim. Honey-Suckle, <hi>and others.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>Tim.</speaker>
+                     <p>Victoria, Victoria, Victoria.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Honey.</speaker>
+                     <p>Well, I muſt confeſs you have beaten me, and now I'll turn Proteſtant, and cry, God bleſs King <hi>Elizabeth,</hi> Queen of <hi>England,</hi> and a pox on the Pope —</p>
+                  </sp>
+                  <sp>
+                     <speaker>Tim.</speaker>
+                     <p>Well Sirrah, and for the ſake of Queen <hi>Elizabeth</hi> give us one Dance now, and here's my hand, we'll be friends for ever.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Honey.</speaker>
+                     <p>Agreed, agreed.</p>
+                  </sp>
+                  <stage>He Dances an Antick Jigg.</stage>
+                  <sp>
+                     <speaker>Tim.</speaker>
+                     <p>So, well done Cook, now I like thee I'faith.</p>
+                  </sp>
+                  <stage>
+                     <hi>Enters</hi> Bruſh <hi>to them.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>Bruſh.</speaker>
+                     <p>Arm, Arm Neighbours, Arm, or we ſhall be all burnt, burnt for Hereticks.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Tim.</speaker>
+                     <p>How's that Neighbour, all burnt for Hereticks?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Bruſh.</speaker>
+                     <p>Ay, all for Hereticks; for the Pope with the whole Spaniſh <hi>Armado,</hi> is come into the <hi>Hope,</hi> laden with Faggots, Iron, Whips, Racks, and Gibbets, to torture, hang and burn us all for being Proteſtants.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Tim.</speaker>
+                     <p>How the Pope come into the <hi>Hope,</hi> Uds-lud then let us go hope to catch the Pope; and if we do catch the Old Gentleman, we'll ſo ſinge his Tail, that he ſhall never forſake the Coun<g ref="char:EOLhyphen"/>trey. Now will I go muſter up all my <hi>Kent-ſtreet</hi> Regiment, and if I pull him not by the Beard, ſay <hi>Tim</hi>'s a Coward. Come along, come along, along, along.</p>
+                  </sp>
+                  <p>
+                     <stage>Exeunt.</stage>
+                  </p>
+                  <p>
+                     <stage>Enters the Pope, lead by the Devil in his own ſhape.</stage>
+                  </p>
+                  <sp>
+                     <speaker>Pope.</speaker>
+                     <p>Where haſt thou brought me, through theſe gloomy ſhades of Night?</p>
+                  </sp>
+                  <pb n="19" facs="tcp:56658:12"/>
+                  <sp>
+                     <speaker>Devil.</speaker>
+                     <p>Ask thy ſelf — know'ſt thou this Figure, once thy Servant, and now thy Maſter: I counſelled thee in all, raiſed thee at firſt, and gave thee Popedom; bore thy Meſſages o'r Sea, and laid and managed all thy Plots againſt the Hereticks; but thou haſt bought my Service dear, at the price of thy poor Soul. I had thee too in Bonds, and all to make thee one to Lucifer my Maſter: The time's expired, thy Glaſs is run, and long thou can'ſt not ſtay; therefore I'll leave thee to that fate thou meriteſt, and the Heriticks ſhall give thee.</p>
+                  </sp>
+                  <stage>
+                     <hi>The Scene ſuddenly draws off, and diſcovers Hell full of Devils, Popes and Cardinals, with the Ghoſts of</hi> Moricena <hi>and</hi> Dulcementa <hi>wounded: To them the Devilenters.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>Pope.</speaker>
+                     <p>What ghaſtly Viſions? this my Eye-balls ſtart, my Blood runs backward, and chill Horror freezes up the Spring of Life.</p>
+                  </sp>
+                  <p>
+                     <stage>
+                        <hi>Enter one who ſings, in Anſwer to a Noiſe behind the Scenes,</hi> &amp;c.</stage>
+                  </p>
+                  <p>
+                     <stage>SONG.</stage>
+                  </p>
+                  <sp>
+                     <speaker>Voice.</speaker>
+                     <l>
+                        <hi>WHere, where's the Pope:</hi>
+                     </l>
+                     <l>Anſwer. <hi>Come to die in a Rope:</hi>
+                     </l>
+                     <l>
+                        <hi>Or his Breath expire, by the flames of hot fire.</hi>
+                     </l>
+                     <l>
+                        <hi>To meet the juſt Plagues that his ſins do require.</hi>
+                     </l>
+                  </sp>
+                  <sp>
+                     <speaker>Voice.</speaker>
+                     <l>
+                        <hi>Pray what is his Crime?</hi>
+                     </l>
+                     <l>
+                        <hi>For coming to Popedom before 'twas his time;</hi>
+                     </l>
+                     <l>
+                        <hi>For Murther and Whoredom, for Poiſon and Rape,</hi>
+                     </l>
+                     <l>
+                        <hi>For killing the Father and making eſcape,</hi>
+                     </l>
+                     <l>
+                        <hi>From the Chair of St.</hi> Peter <hi>to a Heretick City;</hi>
+                     </l>
+                     <l>
+                        <hi>Mid'ſt the Rabble, to ſuffer without any pity.</hi>
+                     </l>
+                     <l>
+                        <hi>A round, a round, round, incloſe the Pope round;</hi>
+                     </l>
+                     <l>
+                        <hi>Puſh him and roſs him on Prongs; all yet quicker,</hi>
+                     </l>
+                     <l>
+                        <hi>Till he cryes there's no hope, for bloody, bloody Pope,</hi>
+                     </l>
+                     <l>
+                        <hi>And a cheating old fool of a Vicar.</hi>
+                     </l>
+                  </sp>
+                  <stage>Exit Singer.</stage>
+                  <sp>
+                     <speaker>Pope.</speaker>
+                     <p>Curſed diſmal fate, muſt all my Glories and incumbent Honours ſink into the duſt! O Popedom, thou gilded Pill, whoſe
+<pb n="20" facs="tcp:56658:13"/>outſide ſeems enticing fair, but being took, thou hurrieſt Man<g ref="char:EOLhyphen"/>kind upon his ſure deſtruction</p>
+                     <l>Oh, I could curſe thee, but 'tis now too late,</l>
+                     <l>And I with patience muſt endure my fate.</l>
+                  </sp>
+                  <p>
+                     <stage>
+                        <hi>As he is going out,</hi> Tim. Bruſh. Honeyſuckle, <hi>and others of the Rabble come running in, and almoſt beat him down</hi> —</stage>
+                  </p>
+                  <sp>
+                     <speaker>Tim.</speaker>
+                     <p>Ha, what have we got here a Mamamouche?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Honey.</speaker>
+                     <p>I'll be hang'd if this fellow han't run away from his Colours: Vds-foot look here, he has brought the Key of the Cupboard away with him for haſte.</p>
+                  </sp>
+                  <stage>Laying hold on the Key that hangs by his ſide.</stage>
+                  <sp>
+                     <speaker>Tim.</speaker>
+                     <p>Pray Sir, if a Man may be ſo bold to ask, what are you Sir?</p>
+                  </sp>
+                  <stage>A diſmal Voice from above.</stage>
+                  <sp>
+                     <speaker>Voice.</speaker>
+                     <p>He's a Pope —</p>
+                  </sp>
+                  <sp>
+                     <speaker>Tim.</speaker>
+                     <p>Ha, — hark ye there Neighbours, there's ſomething ſays he is a Pope.</p>
+                  </sp>
+                  <sp>
+                     <speaker>All.</speaker>
+                     <p>O law!</p>
+                  </sp>
+                  <sp>
+                     <speaker>Tim.</speaker>
+                     <p>Pray, Sir, are you a Pope?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Pope.</speaker>
+                     <p>No.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Tim.</speaker>
+                     <p>Why then you might have told a body ſo at firſt.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Voice.</speaker>
+                     <p>He lies.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Tim.</speaker>
+                     <p>Ha, there's ſomething ſays he lies, but I don't know what it is, yet 'tis no matter, let it be what it will, we are bound to believe it; for it can't lie ſo long as it ſpeaks againſt the Pope.
+<stage>[Goes to him]</stage> Pray Sir what Pope are you?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Voice.</speaker>
+                     <p>He's the Pope of <hi>Rome.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Tim.</speaker>
+                     <p>Ha, — hark you there Neighbours; — nay, if he be the Pope of <hi>Rome,</hi> he ſhall quickly know his doom.</p>
+                  </sp>
+                  <sp>
+                     <speaker>All.</speaker>
+                     <p>He ſhall, he ſhall.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Tim.</speaker>
+                     <p>For now I think on't Neighbours, we are to have Bonfires to night, for the Victory over the Spaniſh <hi>Armado,</hi> and this Pope having been the cauſe of the burning of many a Heretick; what ſay ye if we ſhould return him like for like, and burn him? — Hold ſtop the Pope there.</p>
+                  </sp>
+                  <stage>He offers to go out, they pull him in.</stage>
+                  <sp>
+                     <speaker>All.</speaker>
+                     <p>Ay, ay, that wou'd be brave, that wou'd be brave.</p>
+                  </sp>
+                  <pb n="21" facs="tcp:56658:13"/>
+                  <sp>
+                     <speaker>Tim.</speaker>
+                     <p>Then take him up, and let's march along with him from hence</p>
+                     <l>To <hi>Temple-Bar,</hi> where being come,</l>
+                     <l>We'll ſacrifice this mighty Pope of <hi>Rome.</hi>
+                     </l>
+                  </sp>
+                  <sp>
+                     <speaker>Pope.</speaker>
+                     <p>O Gentlemen, Gentlemen, for Gods ſake Gentlemen, Oh.</p>
+                  </sp>
+                  <sp>
+                     <speaker>All.</speaker>
+                     <p>Ay, ay, up with him, up with him.</p>
+                  </sp>
+                  <stage>They get him aſtride upon a Coul-ſtaff, and lift him upon their Shoulders, ſnatching off his Triple Miter, Mantel, and other Ornaments, they put them upon themſelves; then hollow and dance round him.</stage>
+                  <sp>
+                     <speaker>Tim.</speaker>
+                     <p>For know, if you your ſelf to us do commit, You ſoon ſhall find, we love neither Pope, Prieſt, nor Jeſuit.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Pope.</speaker>
+                     <p>Gentlemen, Gentlemen, nay, Gentlemen.</p>
+                  </sp>
+                  <p>
+                     <stage>They go out with him, hallowing and throwing up their Hats.</stage>
+                  </p>
+                  <p>
+                     <stage>The Queen, Enter, her General, Lords and Attendants.</stage>
+                  </p>
+                  <sp>
+                     <speaker>General.</speaker>
+                     <lg>
+                        <l>Long live the moſt Victorious Queen on Earth,</l>
+                        <l>The far fam'd Great Renown'd <hi>Elizabeth.</hi>
+                        </l>
+                     </lg>
+                     <p>Whoſe Arms may now be term'd Invincible, ſince <hi>Spain</hi> and <hi>France</hi> with their Vnited Powers, could not reſiſt your Force: May the World tremble at your Name; and may afflicted Kings and Princes fly to you for Succour, who, next, to Heaven, are only able for to give it, and the <hi>Neatherlands</hi> ſtill owe their Peace to you; nay, may the Nations far remote, hear of the Ter<g ref="char:EOLhyphen"/>ror of your Arm, and ſhrink into the caverns of the Earth for fear of your dire Thunder.</p>
+                  </sp>
+                  <sp>
+                     <speaker>A Lord.</speaker>
+                     <p>And as the Moon draws after her the watry World, may you attract Mankind to gaze on you with wonder, and ſo ſpread your Sacred Luſtre beyond the utmoſt limits of this Globe.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Queen.</speaker>
+                     <p>Never was Prince bleſſed with ſuch Loyal Subjects, the Honour of this day was yours, not mine; I was but a Spectator at a diſtance, ſaw the Fight, and ſaw ſuch great Courage that the World muſt bluſh to hear: Therefore you great ſharers of my joy, who did partake the danger, ſhall receive ſuch Favours from our Royal Bounty, as are fit for a Princeſs to give, and Subjects to receive.</p>
+                  </sp>
+                  <pb n="22" facs="tcp:56658:14"/>
+                  <sp>
+                     <speaker>All.</speaker>
+                     <p>Our Lives and Fortunes ſtill attend our Royal Miſtreſs.</p>
+                  </sp>
+                  <stage>
+                     <hi>Enter</hi> Tim, Bruſh, Honeyſuckle, <hi>and others.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>Tim.</speaker>
+                     <p>Here's King <hi>Elizabeth,</hi> Down on your Marrow-Bones, ye Dogs, Down on your Marrow-Bones, I ſay.</p>
+                  </sp>
+                  <stage>They Kneel.</stage>
+                  <sp>
+                     <speaker>Queen.</speaker>
+                     <p>What wou'd theſe Supplicants?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Tim.</speaker>
+                     <p>Ha, what does ſhe Invite us all to Supper.</p>
+                  </sp>
+                  <sp>
+                     <speaker>All.</speaker>
+                     <p>Ay, ay; O law!</p>
+                  </sp>
+                  <sp>
+                     <speaker>Queen.</speaker>
+                     <p>What is it you requeſt?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Tim.</speaker>
+                     <p>We the Tatterdy-Mallion head of the Body Politick, an't ſhall pleaſe your Majeſty—We are your True-born Subjects, as Ar<g ref="char:EOLhyphen"/>rant Hereticks as ever piſs'd; and it ſhall pleaſe your Majeſty, we have been a fighting againſt the Pope, An't pleaſe your Majeſty, and have beaten the Pope, and taken the Pope; and now we are come to get your Majeſtie's leave to let us burn the Pope.</p>
+                  </sp>
+                  <sp>
+                     <speaker>General.</speaker>
+                     <p>And where will you get one?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Tim.</speaker>
+                     <p>O, we have a Pope, a luſty Pope, a ſtrapping Pope, a Rumping Thumping Pope, a Pope that will fry like Bacon, an't pleaſe you.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Queen.</speaker>
+                     <p>Uſe your freedom, you have our leave; but do it with diſcretion, without Riot or Tumult; leſt Grace once given and then abuſed, ſhould turn the Sword of Juſtice againſt my friends.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Tim.</speaker>
+                     <p>Hark you there, ſhe calls us all Friends.</p>
+                  </sp>
+                  <sp>
+                     <speaker>All.</speaker>
+                     <p>O law—</p>
+                  </sp>
+                  <sp>
+                     <speaker>Tim.</speaker>
+                     <p>O 'Tis brave King <hi>Elizabeth;</hi> I'll warrant your Worſhip we'll uſe him as we ought. Come, come, to burn the Pope, to burn the Pope; Away, away.</p>
+                  </sp>
+                  <stage>They go out leaping and ſhouting.</stage>
+                  <sp>
+                     <speaker>Queen.</speaker>
+                     <l>Thus Heaven ſhowers Bleſſings on the head of Kings,</l>
+                     <l>And does Protect them with Immortal Wings.</l>
+                     <l>
+                        <hi>Rome</hi> may Conſpire, and Hell with her Combine;</l>
+                     <l>Yet cannot harm, though Pope and Devil join.</l>
+                  </sp>
+                  <p>
+                     <stage>They go out.</stage>
+                  </p>
+                  <p>
+                     <stage>Enter ſix Dancers, who Dance a Set-Dance, which ended, They go out, then a Woman Enters and Dances a Jig.</stage>
+                  </p>
+                  <trailer>The End of the <hi>PLAY.</hi>
+                  </trailer>
+               </div>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="epilogue">
+            <pb facs="tcp:56658:14"/>
+            <head>EPILOGUE.</head>
+            <lg>
+               <l>GAllants, I muſt confeſs your dealing's fair,</l>
+               <l>You paid your Moneys, e'r you ſaw our Ware:</l>
+               <l>And ſhou'd you now diſlike ſince you have ſeen,</l>
+               <l>Pray tell me how you'd get your Coin again?</l>
+               <l>For ne'r at Law there yet an Action lay</l>
+               <l>For Money's gi'n to ſee a Wanton Play.</l>
+               <l>Let me entreat you then diſlike it not,</l>
+               <l>But like to thoſe who late a Clap have got,</l>
+               <l>Commend the Wench, that more may to her go;</l>
+               <l>So if they Jeer you, you may Jeer them too:</l>
+               <l>Yet Plays, like Wives, are ſubject to a Curſe,</l>
+               <l>Becauſe they'r took for Better or for Worſe.</l>
+               <l>Ladies, If you'd but Smile, I'm ſure that then</l>
+               <l>It would be pleaſing to the Gentlemen;</l>
+               <l>Yet pleas'd or diſpleas'd, we cannot Command;</l>
+               <l>But you that a'r well pleas'd, Pray Clap your hands.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
